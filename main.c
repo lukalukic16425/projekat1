@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int(){
+int main(){
 printf("Broj indeksa je 164/25");
 return 0;
 }
